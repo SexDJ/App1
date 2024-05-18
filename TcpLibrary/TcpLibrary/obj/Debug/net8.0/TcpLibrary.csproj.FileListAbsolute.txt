@@ -1,0 +1,11 @@
+E:\Project\TcpLibrary\TcpLibrary\bin\Debug\net8.0\TcpLibrary.deps.json
+E:\Project\TcpLibrary\TcpLibrary\bin\Debug\net8.0\TcpLibrary.dll
+E:\Project\TcpLibrary\TcpLibrary\bin\Debug\net8.0\TcpLibrary.pdb
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\TcpLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\TcpLibrary.AssemblyInfoInputs.cache
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\TcpLibrary.AssemblyInfo.cs
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\TcpLibrary.csproj.CoreCompileInputs.cache
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\TcpLibrary.dll
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\refint\TcpLibrary.dll
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\TcpLibrary.pdb
+E:\Project\TcpLibrary\TcpLibrary\obj\Debug\net8.0\ref\TcpLibrary.dll
